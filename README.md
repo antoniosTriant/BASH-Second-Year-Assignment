@@ -79,7 +79,7 @@ A shell script (using the tar command) which allows a Manager to add new users t
 <p></p>
 <p>Selecting the Archive Directory menu, prompts to a different menu. Instructions are given to the user as to what he must have prepared in order to proceed. The instructions are displayed below:</p>
 <br>
-![tut_image](https://github.com/antoniosTriant/BASH-Second-Year-Assignment/blob/master/Screenshot_1.jpg)
+![tut_image](https://github.com/antoniosTriant/Shell-Second-Year-Assignment/blob/master/explanatory.png)
 
 <p>The user should have the path to the directory that he would like to back up in a text file ready to be copied into the prompt.</p>
 <p>Also, he should have the path of the directory he would like the backed up files to be placed.</p>
