@@ -1,5 +1,5 @@
 
-# Shell Second Year Assignment
+# BASH Shell Scripts
 This repository contains three Shell scripts as part of the second year, second semester Operating Systems module assignment. 
 The user guides of all three scripts are displayed below.
 
